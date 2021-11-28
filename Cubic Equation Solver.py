@@ -29,9 +29,7 @@ def quadratic_equation_solver(a,b,c):
             print('The equation has two real roots:', 'x1 =', round(x1,2),
             'and','x2 =',round(x2,2)) 
 
-
 cube_root = lambda x: x**(1./3.) if 0 <= x else -(-x)**(1./3.)
-
 
 def cubic_equation_solver(A,B,C,D): 
     if A == 0:
