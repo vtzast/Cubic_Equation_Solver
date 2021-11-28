@@ -1,4 +1,4 @@
-Cubic Equation Solver
+## Cubic Equation Solver
 
 A Cubic Equation Solver for calculating the roots of cubic polynomials based on the Cardano's mathematical formula.
 Roots are rounded to two decimal places.
